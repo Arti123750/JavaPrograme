@@ -10,7 +10,8 @@ public class ArtiPrograme {
 		// TODO Auto-generated method stub
 
 		System.out.println("Succesfully project load on git.......");
-		
+	
+		System.out.println("One line Added");
 	}
 
 }
